@@ -6,7 +6,7 @@ import whisper
 import warnings
 
 # Ignorar advertencias de tipo FutureWarning
-# warnings.filterwarnings("ignore", category=FutureWarning)
+warnings.filterwarnings("ignore", category=FutureWarning)
 
 def descargar_audio(url):
     """
