@@ -5,7 +5,7 @@ This project allows you to download audio from a YouTube or TikTok video, transc
 ## Requirements
 
 - Python 3.10
-- [Miniconda](https://docs.conda.io/en/latest/miniconda.html) or [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
+- [Miniconda](https://docs.conda.io/en/latest/miniconda.html) or [Anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
 
 ## Installation
 
