@@ -39,7 +39,7 @@ def descargar_audio(url):
 
 def transcribir_audio(archivo_audio):
     """Transcribe el audio usando el modelo Whisper."""
-    modelo = whisper.load_model("base")
+    modelo = whisper.load_model("large-v2")
     resultado = modelo.transcribe(archivo_audio)
     return resultado['text']
 
