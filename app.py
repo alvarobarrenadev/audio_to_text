@@ -1,7 +1,5 @@
 # pip install openai-whisper yt_dlp
 
-# pip install openai-whisper yt_dlp
-
 import os
 import yt_dlp
 import whisper
